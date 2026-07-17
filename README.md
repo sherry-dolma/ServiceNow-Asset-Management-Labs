@@ -26,3 +26,20 @@ This repository documents my practical implementation of the ServiceNow HAM Prof
 * CMDB Configuration & Health
 * HAM Professional Workflows
 * XML Data Export/Import
+
+
+---
+
+## Project 2: Software Asset Management (SAM) Professional
+**Objective:** To automate software license compliance and optimize enterprise-scale software estates.
+
+### 📊 Implementation Highlight: Software Asset Workspace
+Below is a simulation of a Software License Audit showing financial optimization and compliance tracking:
+
+![ServiceNow SAM Dashboard](SAM_Dashboard.png)
+
+### Core Skills & Insights:
+* **Financial Optimization:** Identified over **$18.4M** in over-licensed software, demonstrating the ability to drive cost savings through license reclamation.
+* **Compliance Management:** Monitored 14 publishers and 40 products out of compliance to ensure an "Audit-Ready" state.
+* **Proactive Remediation:** Utilized the Activity Center to triage 55 removal candidates and action normalization suggestions.
+* **Entitlement Mapping:** Proficient in importing and reconciling software entitlements against discovered installations.
