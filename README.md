@@ -70,5 +70,17 @@ This dashboard identifies critical data integrity gaps, allowing for targeted re
 * **Audit Readiness (Completeness):** Achieved a 100% Completeness score for critical infrastructure by configuring **Required and Recommended Fields** within the **CI Class Manager**.
 * **Governance Reporting:** Utilized scheduled jobs (`sysauto_script`) to automate health score calculations, providing executive stakeholders with real-time visibility into the health of the banking asset estate.
 
+## Project 4: Hardware Lifecycle Automation & CI Synchronization
+**Objective:** To automate the lifecycle transition between financial assets and technical configuration items (CIs) to ensure CMDB data fidelity.
+
+### 🤖 Implementation Highlight: Automated Decommissioning
+The screenshot below demonstrates the successful synchronization between the **Asset [alm_asset]** and **Computer [cmdb_ci_computer]** tables.
+
+![Hardware Lifecycle Sync](Hardware_Lifecycle_Sync_Proof.png)
+
+### Core Skills & Insights:
+* **Asset-CI Mapping:** Configured the platform logic so that retiring a financial asset automatically updates the **Install Status** to 'Retired' on the technical CI.
+* **Security & Governance:** This automation eliminates "Ghost Assets"—decommissioned hardware that remains 'Active' in monitoring systems—thereby reducing the attack surface and improving operational security.
+* **Audit Readiness:** Maintains 100% synchronization between Procurement records and the technical CMDB without manual data entry.
 
 
