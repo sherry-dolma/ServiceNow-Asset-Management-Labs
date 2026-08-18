@@ -43,3 +43,19 @@ Below is a simulation of a Software License Audit showing financial optimization
 * **Compliance Management:** Monitored 14 publishers and 40 products out of compliance to ensure an "Audit-Ready" state.
 * **Proactive Remediation:** Utilized the Activity Center to triage 55 removal candidates and action normalization suggestions.
 * **Entitlement Mapping:** Proficient in importing and reconciling software entitlements against discovered installations.
+
+## Project 3: CSDM 4.0 Architecture & Service Mapping
+**Objective:** To implement a service-centric CMDB that maps technical infrastructure to business outcomes.
+
+### 📍 Implementation Highlight: Top-Down Service Map
+This map visualizes the relationship between a technical Linux endpoint and the "TD-Mobile-Banking-Prod" Application Service.
+
+![CSDM Service Map](SERVICENOW_CSDM_SERVICE_MAP.PNG)
+
+### Core Skills & Insights:
+* **Service-Awareness:** Demonstrated the ability to create "Application Services" that provide visibility into the business impact of infrastructure failures.
+* **CSDM Alignment:** Mapped technical CIs across the **Technical Service** and **Application** domains of the Common Service Data Model.
+* **Incident Readiness:** This mapping enables automated "Impact Calculation" during Major Incidents, reducing the time required to identify affected business products.
+
+
+
