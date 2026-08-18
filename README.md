@@ -57,5 +57,18 @@ This map visualizes the relationship between a technical Linux endpoint and the 
 * **CSDM Alignment:** Mapped technical CIs across the **Technical Service** and **Application** domains of the Common Service Data Model.
 * **Incident Readiness:** This mapping enables automated "Impact Calculation" during Major Incidents, reducing the time required to identify affected business products.
 
+## Project 4: CMDB Health & Data Governance
+**Objective:** To establish a "Single Source of Truth" by monitoring and remediating CMDB data quality across the "3 Cs": Completeness, Correctness, and Compliance.
+
+### 🔍 Implementation Highlight: CMDB Health Dashboard
+This dashboard identifies critical data integrity gaps, allowing for targeted remediation of duplicate and stale records.
+
+![CMDB Health Dashboard](ServiceNow_CMDB_Health_Dashboard.png)
+
+### Core Skills & Insights:
+* **Data Integrity (Correctness):** In this lab, I identified a 7% Correctness score, highlighting high volumes of **Duplicate CIs**. I am proficient in using the **IRE (Identification & Reconciliation Engine)** to remediate these duplicates and prevent future data corruption.
+* **Audit Readiness (Completeness):** Achieved a 100% Completeness score for critical infrastructure by configuring **Required and Recommended Fields** within the **CI Class Manager**.
+* **Governance Reporting:** Utilized scheduled jobs (`sysauto_script`) to automate health score calculations, providing executive stakeholders with real-time visibility into the health of the banking asset estate.
+
 
 
