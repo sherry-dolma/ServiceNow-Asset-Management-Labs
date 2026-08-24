@@ -37,7 +37,7 @@ This repository documents my practical implementation of the ServiceNow HAM Prof
 ### 📊 Implementation Highlight: Software Asset Workspace
 Below is a simulation of a Software License Audit showing financial optimization and compliance tracking:
 
-![ ServiceNow_SAM_Optimization_Dashboard.png]( ServiceNow_SAM_Optimization_Dashboard.png.png)
+![ ServiceNow_SAM_Optimization_Dashboard.png]( ServiceNow_SAM_Optimization_Dashboard.png)
 
 ### Core Skills & Insights:
 * **Financial Optimization:** Identified over **$18.4M** in over-licensed software, demonstrating the ability to drive cost savings through license reclamation.
