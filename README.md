@@ -51,7 +51,7 @@ Below is a simulation of a Software License Audit showing financial optimization
 ### 📍 Implementation Highlight: Top-Down Service Map
 This map visualizes the relationship between a technical Linux endpoint and the "TD-Mobile-Banking-Prod" Application Service.
 
-![(SERVICENOW_CSDM_SERVICE_MAP](SERVICENOW_CSDM_SERVICE_MAP.PNG)
+![(SERVICENOW_CSDM_SERVICE_MAP.PNG](SERVICENOW_CSDM_SERVICE_MAP.PNG)
 
 ### Core Skills & Insights:
 * **Service-Awareness:** Demonstrated the ability to create "Application Services" that provide visibility into the business impact of infrastructure failures.
