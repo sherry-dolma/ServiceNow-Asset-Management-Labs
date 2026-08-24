@@ -91,9 +91,12 @@ The screenshot below demonstrates the successful synchronization between the **A
 ![REST API Payload](ServiceNow_Integration_REST_Logic.png)
 ![API Error Handling](ServiceNow_API_Resilience.png)
 
-API Architecture: Engineered a custom integration using REST POST methods and JSON payloads. Mastered the configuration of Inline Connections to bridge ServiceNow with external banking security infrastructure.
-Modular Automation: Leveraged the new Xanadu Workflow Studio to design reusable, low-code Custom Actions. This approach reduces technical debt by encapsulating complex logic into a single, maintainable component.
-Defensive Design (Resilience): Implemented advanced Error Evaluation logic to monitor HTTP status codes. By trapping non-200 responses, I ensured the system "fails safely," triggering an immediate manual remediation task if the API handshake fails.
-Data Fidelity & Mapping: Utilized Data Pills to dynamically pass unique identifiers (User Sys IDs) between the Incident trigger and the REST payload, ensuring 100% accuracy in high-risk account revocation.
+
+### **Core Skills & Insights:**
+
+*   ** API Architecture:** Engineered a custom integration using **REST POST** methods and **JSON payloads**. Mastered the configuration of **Inline Connections** to bridge ServiceNow with external banking security infrastructure.
+*   ** Modular Automation:** Leveraged the new **Xanadu Workflow Studio** to design reusable, low-code **Custom Actions**. This approach reduces technical debt by encapsulating complex logic into a single, maintainable component.
+*   ** Defensive Design (Resilience):** Implemented advanced **Error Evaluation** logic to monitor HTTP status codes. By trapping non-200 responses, I ensured the system "fails safely," triggering an immediate manual remediation task if the API handshake fails.
+*   ** Data Fidelity & Mapping:** Utilized **Data Pills** to dynamically pass unique identifiers (User Sys IDs) between the Incident trigger and the REST payload, ensuring 100% accuracy in high-risk account revocation.
 
 
