@@ -2,6 +2,7 @@
 Practical implementation and documentation of Hardware Asset Management (HAM) in ServiceNow.
 # ServiceNow Hardware Asset Management (HAM) Lab
 
+![Hardware_Lifecycle_Sync_Proof](Hardware_Lifecycle_Sync_Proof.png)
 ## Overview
 This repository documents my practical implementation of the ServiceNow HAM Professional module. I focused on building a compliant, automated hardware lifecycle and maintaining CMDB accuracy.
 
